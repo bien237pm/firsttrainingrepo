@@ -8,3 +8,5 @@ D:\QA_Home\Git
 D:\QA_Home\GitExtensions
 
 http://kdiff3.sourceforge.net/
+
+Watch this video: https://www.youtube.com/watch?v=TWM1YNzSwB8
