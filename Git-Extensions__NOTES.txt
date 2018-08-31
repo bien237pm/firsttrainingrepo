@@ -1,0 +1,10 @@
+
+https://gitextensions.github.io/
+
+https://git-scm.com/downloads
+
+D:\QA_Home\Git
+
+D:\QA_Home\GitExtensions
+
+http://kdiff3.sourceforge.net/
