@@ -8,3 +8,9 @@ D:\QA_Home\Git
 D:\QA_Home\GitExtensions
 
 http://kdiff3.sourceforge.net/
+
+Make sure to use:
+git --help
+git help -a
+git help -g
+git help log
